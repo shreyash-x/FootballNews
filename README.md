@@ -3,3 +3,4 @@
 - Any changes made in the content on Contentful platform will get reflected to all the my Web-Apps making use of it.
 - Contentful CMS creates a REST API for my content which I can access across all apps.
 - Basic HTML, CSS and JavaScript knowledge is used in this project along with integration of APIs.
+- The website can be accessed via this [link](https://shreyash-x.github.io/FootballNews/).
